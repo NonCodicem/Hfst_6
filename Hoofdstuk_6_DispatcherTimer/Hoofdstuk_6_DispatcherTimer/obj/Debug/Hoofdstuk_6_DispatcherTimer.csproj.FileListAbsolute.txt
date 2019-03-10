@@ -1,0 +1,15 @@
+C:\Users\sekke\source\repos\Hoofdstuk_6_DispatcherTimer\Hoofdstuk_6_DispatcherTimer\bin\Debug\Hoofdstuk_6_DispatcherTimer.exe.config
+C:\Users\sekke\source\repos\Hoofdstuk_6_DispatcherTimer\Hoofdstuk_6_DispatcherTimer\bin\Debug\Hoofdstuk_6_DispatcherTimer.exe
+C:\Users\sekke\source\repos\Hoofdstuk_6_DispatcherTimer\Hoofdstuk_6_DispatcherTimer\bin\Debug\Hoofdstuk_6_DispatcherTimer.pdb
+C:\Users\sekke\source\repos\Hoofdstuk_6_DispatcherTimer\Hoofdstuk_6_DispatcherTimer\obj\Debug\Hoofdstuk_6_DispatcherTimer.csprojAssemblyReference.cache
+C:\Users\sekke\source\repos\Hoofdstuk_6_DispatcherTimer\Hoofdstuk_6_DispatcherTimer\obj\Debug\MainWindow.g.cs
+C:\Users\sekke\source\repos\Hoofdstuk_6_DispatcherTimer\Hoofdstuk_6_DispatcherTimer\obj\Debug\App.g.cs
+C:\Users\sekke\source\repos\Hoofdstuk_6_DispatcherTimer\Hoofdstuk_6_DispatcherTimer\obj\Debug\Hoofdstuk_6_DispatcherTimer_MarkupCompile.cache
+C:\Users\sekke\source\repos\Hoofdstuk_6_DispatcherTimer\Hoofdstuk_6_DispatcherTimer\obj\Debug\Hoofdstuk_6_DispatcherTimer_MarkupCompile.lref
+C:\Users\sekke\source\repos\Hoofdstuk_6_DispatcherTimer\Hoofdstuk_6_DispatcherTimer\obj\Debug\MainWindow.baml
+C:\Users\sekke\source\repos\Hoofdstuk_6_DispatcherTimer\Hoofdstuk_6_DispatcherTimer\obj\Debug\Hoofdstuk_6_DispatcherTimer.g.resources
+C:\Users\sekke\source\repos\Hoofdstuk_6_DispatcherTimer\Hoofdstuk_6_DispatcherTimer\obj\Debug\Hoofdstuk_6_DispatcherTimer.Properties.Resources.resources
+C:\Users\sekke\source\repos\Hoofdstuk_6_DispatcherTimer\Hoofdstuk_6_DispatcherTimer\obj\Debug\Hoofdstuk_6_DispatcherTimer.csproj.GenerateResource.cache
+C:\Users\sekke\source\repos\Hoofdstuk_6_DispatcherTimer\Hoofdstuk_6_DispatcherTimer\obj\Debug\Hoofdstuk_6_DispatcherTimer.csproj.CoreCompileInputs.cache
+C:\Users\sekke\source\repos\Hoofdstuk_6_DispatcherTimer\Hoofdstuk_6_DispatcherTimer\obj\Debug\Hoofdstuk_6_DispatcherTimer.exe
+C:\Users\sekke\source\repos\Hoofdstuk_6_DispatcherTimer\Hoofdstuk_6_DispatcherTimer\obj\Debug\Hoofdstuk_6_DispatcherTimer.pdb

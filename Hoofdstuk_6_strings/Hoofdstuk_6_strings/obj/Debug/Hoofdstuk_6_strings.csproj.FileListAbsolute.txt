@@ -1,0 +1,7 @@
+C:\Users\sekke\source\repos\Hoofdstuk_6_strings\Hoofdstuk_6_strings\bin\Debug\Hoofdstuk_6_strings.exe.config
+C:\Users\sekke\source\repos\Hoofdstuk_6_strings\Hoofdstuk_6_strings\bin\Debug\Hoofdstuk_6_strings.exe
+C:\Users\sekke\source\repos\Hoofdstuk_6_strings\Hoofdstuk_6_strings\bin\Debug\Hoofdstuk_6_strings.pdb
+C:\Users\sekke\source\repos\Hoofdstuk_6_strings\Hoofdstuk_6_strings\obj\Debug\Hoofdstuk_6_strings.csprojAssemblyReference.cache
+C:\Users\sekke\source\repos\Hoofdstuk_6_strings\Hoofdstuk_6_strings\obj\Debug\Hoofdstuk_6_strings.csproj.CoreCompileInputs.cache
+C:\Users\sekke\source\repos\Hoofdstuk_6_strings\Hoofdstuk_6_strings\obj\Debug\Hoofdstuk_6_strings.exe
+C:\Users\sekke\source\repos\Hoofdstuk_6_strings\Hoofdstuk_6_strings\obj\Debug\Hoofdstuk_6_strings.pdb

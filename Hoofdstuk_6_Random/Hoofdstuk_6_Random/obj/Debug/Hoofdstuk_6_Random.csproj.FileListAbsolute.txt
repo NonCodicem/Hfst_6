@@ -1,0 +1,6 @@
+c:\users\sekke\source\repos\Hoofdstuk_6_Random\Hoofdstuk_6_Random\bin\Debug\Hoofdstuk_6_Random.exe.config
+c:\users\sekke\source\repos\Hoofdstuk_6_Random\Hoofdstuk_6_Random\bin\Debug\Hoofdstuk_6_Random.exe
+c:\users\sekke\source\repos\Hoofdstuk_6_Random\Hoofdstuk_6_Random\bin\Debug\Hoofdstuk_6_Random.pdb
+c:\users\sekke\source\repos\Hoofdstuk_6_Random\Hoofdstuk_6_Random\obj\Debug\Hoofdstuk_6_Random.csproj.CoreCompileInputs.cache
+c:\users\sekke\source\repos\Hoofdstuk_6_Random\Hoofdstuk_6_Random\obj\Debug\Hoofdstuk_6_Random.exe
+c:\users\sekke\source\repos\Hoofdstuk_6_Random\Hoofdstuk_6_Random\obj\Debug\Hoofdstuk_6_Random.pdb
